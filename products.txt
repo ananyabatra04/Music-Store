@@ -1,0 +1,15 @@
+Beautiful Mistakes,1014.0, Maroon 5 & Megan,1.99,3.47, 2021, Singer-Songwriter, 20
+Binding Lights,1002.0, The Weeknd,1.29,3.2, 2020, Pop, 20
+Easy On Me,1006.0, Adele,2.29,5.31, 2021, Singer-Songwriter, 20
+Fall Into Me,1010.0, Forest Blakk,1.29,3.46, 2021, Country, 20
+Good 4 u,1013.0, Olivia Rodrigo,1.0,29.0, 2.58, 2021, Pop-rock
+Industry Baby,1003.0, Jack Harlow,2.29,3.55, 2021, Hip-hop, 20
+Kiss Me More,1008.0, Doja Cat,0.69,3.28, 2021, Pop, 20
+My Universe,1012.0, ColdPlay & BTS,3.99,3.48, 2021, Indie, 20
+No Lie,1015.0, Dua Lipa & Sean,2.29,3.4, 2021, Reggae, 20
+Peaches,1004.0, Justin Biber,2.19,3.17, 2021, Pop, 20
+Shivers,1001.0, Ed Sheeran,200.0,3.27, 2021, Indie, 20
+STAY,1009.0, The Kid Laroi,1.29,2.21, 2021, Pop, 20
+Wilder Days,1011.0, Morgan Wade,2.29,4.11, 2021, Country, 20
+Willow,1005.0, Taylor Swift,1.29,4.12, 2020, Pop, 20
+Your Power,1007.0, Billie Eilish,1.29,4.05, 2021, Pop, 20

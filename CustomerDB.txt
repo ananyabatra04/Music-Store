@@ -1,0 +1,7 @@
+Mehul, Jaiswal, mjai_c, mehul123, 123 Pear Street, Sunnyvale, California, 94087
+Alex, Zhu Zhou, azhu_c, alex123, 123 Mango Street, Sunnyvale, California, 94087
+Bence, Danko, bdan_c, bence123, 123 Orange Street, Sunnyvale, California, 94087
+Siddhi, Kabadi, sidkid, ski, 123 apple st, cupertino, ca, 95014
+Ananya, Batra, abat_c, ananya123, 123 Banana Street, Sunnyvale, California, 94087
+Ran, Bar-Niv, rbar_c, ran123, 123 Apple Street, Sunnyvale, California, 94087
+Brandon, Lee, blee_c, brandon123, 123 Lemon Street, Sunnyvale, California, 94087
